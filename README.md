@@ -1,6 +1,6 @@
 ![HEADER](assets/header.png)
 
-<h3 align="center">‹/› Hello world 👋🏽 I'm Daouda.</h3>
+<h3 align="center">‹/› Hello world 👋🏽 Coding Team.</h3>
 
 <p align="center">
   <a href="https://team-codeur.blogspot.com/">Site web</a> •
