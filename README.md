@@ -1,36 +1,55 @@
-![HEADER](assets/header.png)
+### Nous sommes une équipe de développeur anonyme basée au Sénégal 👋
 
-<h3 align="center">‹/› Hello world 👋🏽 Coding Team.</h3>
+ 
+![Github Statistisque](https://github-readme-stats.vercel.app/api?username=codingtuto&show_icons=true&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)
 
-<p align="center">
-  <a href="https://team-codeur.blogspot.com/">Site web</a> •
-  <a href="https://facebook.com/metacodingteam">Facebook</a> •
-  <a href="https://t.me/codingtuto">Telegram</a>
-</p>
+### Technologies
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/CodingTM" target="_blank">
-      <img width="25%" alt="Buy me a coffee" src="assets/buy-coffee.png"/>
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-26a699?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+ 
+[![Top des langues](https://github-readme-stats.vercel.app/api/top-langs/?username=codingtutotitle_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&layout=compact)](https://github.com/codingtuto)
+ -->
 
-Nous sommes une équipe de developpeurs Full Stack basée à Dakar.
+### Outils
 
-## DEV STACK 🎒
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![FFmpeg](https://shields.io/badge/FFmpeg-black?logo=ffmpeg&style=for-the-badge)
 
-**Technologies dont ont utilise**
+### Fun
 
-<img align="center" alt="JS" title="JS" width="30px" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg">|<img align="center" title="TS" alt="TS" width="30px" height="30px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">|<img align="center" title="PHP" alt="PHP" width="30px" height="30px" src="https://cdn.svgporn.com/logos/php.svg" />|<img align="center" title="Django" alt="Laravel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/django-icon.svg">|<img align="center" title="Laravel" alt="Laravel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/laravel.svg">|
-|--|--|--|--|--|
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) 
 
-|<img align="center" title="Vue" alt="Vue" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vue.svg">|<img align="center" title="React" alt="React" width="30px" height="30px" src="https://cdn.svgporn.com/logos/react.svg">|<img align="center" title="Nuxt" alt="Nuxt" width="30px" height="30px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg">|<img align="center" title="Next" alt="Next" width="30px" height="30px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">|<img align="center" title="Vite" alt="Vite" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vitejs.svg">
-|--|--|--|--|--|
+[![Winter is Coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
-<img align="center" title="Flutter" alt="Flutter" width="30px" height="30px" src="https://cdn.svgporn.com/logos/flutter.svg">|<img align="center" title="Firebase" alt="Firebase" width="30px" height="30px" src="https://cdn.svgporn.com/logos/firebase.svg">|<img align="center" title="Tailwind" alt="Tailwind" width="30px" height="30px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">|<img align="center" title="Docker" alt="Docker" width="30px" height="30px" src="https://cdn.svgporn.com/logos/docker-icon.svg">|<img align="center" title="Jest" alt="Jest" width="30px" height="30px" src="https://cdn.svgporn.com/logos/jest.svg">
-|--|--|--|--|--|
+<!-- 
+< That I used once >
 
-## GITHUB STAT's 📊
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Statistique](https://github-readme-stats.vercel.app/api?username=codingtuto&show_icons=true))
+-->
+
+### Rejoindre notre [Bots Army](https://t.me/lesrobotsdecodingteam)
+
+[//]: # ([![Telegram]&#40;https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram&#41;]&#40;https://t.me/codingsupport_bot&#41;)
+
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)](https://t.me/codingtuo)
+
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/codingsupport_bot)
+
+[![GitHub followers](https://img.shields.io/github/followers/StarkBotsIndustries.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/StarkBotsIndustries?tab=followers)
+
+![Profile views](https://gpvc.arturio.dev/codingtuto)
