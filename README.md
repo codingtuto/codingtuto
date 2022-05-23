@@ -39,7 +39,7 @@
 
 -->
 
-### Rejoindre notre [Bots Army](https://t.me/lesrobotsdecodingteam)
+### Rejoindre notre [Armée de bots](https://t.me/lesrobotsdecodingteam)
 
 [//]: # ([![Telegram]&#40;https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram&#41;]&#40;https://t.me/codingsupport_bot&#41;)
 
