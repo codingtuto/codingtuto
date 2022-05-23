@@ -15,9 +15,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
- 
-[![Top des langues](https://github-readme-stats.vercel.app/api/top-langs/?username=codingtutotitle_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&layout=compact)](https://github.com/codingtuto)
- -->
 
 ### Outils
 
