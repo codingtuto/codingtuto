@@ -47,6 +47,6 @@
 
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/codingsupport_bot)
 
-[![GitHub followers](https://img.shields.io/github/followers/StarkBotsIndustries.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/StarkBotsIndustries?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/StarkBotsIndustries.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/codingtuto?tab=followers)
 
 ![Profile views](https://gpvc.arturio.dev/codingtuto)
