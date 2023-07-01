@@ -1,22 +1,96 @@
-![Github Statistisque](https://github-readme-stats.vercel.app/api?username=codingtuto&show_icons=true&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)
-
-### Technologies
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-### Outils
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-![Profile views](https://gpvc.arturio.dev/codingtuto)
+# *************************************************************
+#                       README - Coding Team
+# *************************************************************
+#
+#        _______   _______   __       __   _______
+#       |       \ |   _   \ |  \     /  \ |       \
+#       | $$$$$$$\|  | |  | | $$\   /  $$| $$$$$$$\
+#       | $$__/ $$|  | |  | | $$$\ /  $$$| $$__/ $$
+#       | $$    $$|  |_|  | | $$$$\  $$$$| $$    $$
+#       | $$$$$$$\ \       / | $$\$$ $$ $$| $$$$$$$\
+#       | $$__/ $$  \$$$$$$/  | $$ \$$$| $$| $$__/ $$
+#       | $$    $$   | $$   | | $$  \$ | $$| $$    $$
+#       | $$$$$$$    | $$   | | $$   \ | $$| $$$$$$$
+#       |_______/    |__/   | |__/    \|__| \_______/
+#
+#        _______   __       __   ______    _______
+#       |       \ |  \     /  \ /      \  /       \
+#       | $$$$$$$\| $$\   /  $$|  $$$$$$\| $$$$$$$\
+#       | $$__/ $$| $$$\ /  $$$| $$__| $$| $$__/ $$
+#       | $$    $$| $$$$\  $$$$| $$    $$| $$    $$
+#       | $$$$$$$\| $$\$$ $$ $$| $$$$$$$$| $$$$$$$\
+#       | $$__/ $$| $$ \$$$| $$| $$  | $$| $$__/ $$
+#       | $$    $$| $$  \$ | $$| $$  | $$| $$    $$
+#       | $$$$$$$  | $$   \ | $$| $$  | $$| $$$$$$$
+#       |_______/  |__/    \|__|__/  |__/|_______/
+#
+#        *******************************************
+#                      Présentation
+#        *******************************************
+#
+# Bonjour cher visiteur et bienvenue chez Coding Team !
+# Nous sommes une équipe passionnée par le monde du code,
+# Unis par notre amour pour l'innovation et la création.
+#
+# Notre aventure a commencé avec une étincelle de génie,
+# Un feu ardent qui a embrasé le ciel nocturne,
+# De cette idée est née Coding Team, prête à repousser les limites,
+# Et à construire un avenir meilleur avec nos compétences.
+#
+#        *******************************************
+#                  L'héritage de Victor
+#        *******************************************
+#
+# À l'image de Victor Hugo, nous aspirons à l'excellence,
+# À capturer la beauté et la puissance des technologies,
+# Notre plume devient du code, nos mots s'entrelacent,
+# Pour créer des merveilles, de véritables œuvres d'art.
+#
+# Dans nos rangs, nous comptons sur Telegram, Pyrogram, Telebot,
+# Des bijoux qui tissent des liens au sein de notre équipe,
+# Leurs lignes de code, un langage qui nous unit,
+# Pour construire des ponts et ouvrir de nouveaux horizons.
+#
+#        *******************************************
+#               La symphonie des langages
+#        *******************************************
+#
+# Python, HTML, CSS, JS, Node.js, PHP,
+# Des symboles gravés dans notre ADN,
+# Chaque ligne est une note dans notre partition,
+# Qui donne vie à nos créations avec passion.
+#
+# Nous jonglons avec les icônes, les balises, les modules,
+# Des outils magiques qui donnent vie à nos rêves,
+# Dans cette danse rythmée, nous sommes unis,
+# Pour façonner l'avenir, pas à pas, jour après jour.
+#
+#        *******************************************
+#              Une fenêtre sur notre univers
+#        *******************************************
+#
+# Nous souhaitons partager notre voyage avec toi,
+# Et pour cela, nous avons créé une fenêtre sur notre univers,
+# Un widget de statut de profil, qui bat au rythme de notre code,
+# Pour que tu puisses voir notre passion briller de mille feux.
+#
+# Rejoins-nous sur notre page GitHub, CodingTuto,
+# Là où nos projets prennent vie, se développent et fleurissent,
+# Explore notre code, fais partie de notre histoire,
+# Et ensemble, nous construirons un avenir prometteur.
+#
+#        *******************************************
+#                     Conclusion
+#        *******************************************
+#
+# Bienvenue chez Coding Team, cher ami,
+# Un refuge pour les esprits créatifs et les codeurs passionnés,
+# Dans notre monde, les limites n'existent pas,
+# Et l'innovation est notre mantra, notre fierté.
+#
+# Alors prépare-toi, plonge dans notre univers,
+# Et ensemble, écrivons les lignes d'une nouvelle ère,
+# Coding Team t'ouvre ses portes, aujourd'hui et toujours,
+# Prêt à repousser les frontières, avec toi, à nos côtés.
+#
+# ****************** Soyons des pionniers, des créateurs de l'avenir ! ******************
