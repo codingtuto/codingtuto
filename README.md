@@ -133,7 +133,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/codingtuto/codingtuto/output/snake.svg" alt="Snake animation" />
 
 ###
 
