@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Developer from Senegal<br><br>- 🔭 I’m working as API, bot, website developper<br>- 📚 I'm currently learning NodeJS<br>- ⚡ In my free time I build advanced Telegram Bot and API</p>
+<p align="left">I'm Coding Team from Senegal<br><br>- 🔭 I’m working as API, bot, website developper<br>- 📚 I'm currently learning NodeJS<br>- ⚡ In my free time I build advanced Telegram Bot and API</p>
 
 ###
 
